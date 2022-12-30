@@ -1,3 +1,7 @@
 .env
 .idea/*
 venv/*
+/tg_bot/models/*/model
+/tg_bot/models/*/tokenazer
+*fast_model
+*train_data_intent.txt
